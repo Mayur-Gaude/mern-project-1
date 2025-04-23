@@ -1,0 +1,11 @@
+.gradient-text {
+    background: linear-gradient(to right, #06b6d4, #3b82f6); /* cyan.400 to blue.500 */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .navbar-custom {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }

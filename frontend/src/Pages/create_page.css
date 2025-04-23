@@ -1,0 +1,4 @@
+input.bg-dark::placeholder {
+    color: #ccc; /* Lighter placeholder color for visibility in dark mode */
+  }
+  
